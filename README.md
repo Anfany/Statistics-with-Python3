@@ -4,6 +4,6 @@
 
 # 文章列表
 
-+ 1. 正态分布检验
++ 正态分布检验
 
-    + Shapiro-Wilk(SW)检验
+    + 1. Shapiro-Wilk(SW)检验
