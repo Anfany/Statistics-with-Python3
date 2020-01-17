@@ -6,4 +6,4 @@
 
 + ### 正态分布检验
 
-    + ####1.Shapiro-Wilk(SW)检验
+    #### + 1.Shapiro-Wilk(SW)检验
